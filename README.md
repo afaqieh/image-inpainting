@@ -31,4 +31,4 @@ To run the project, ensure you have Python and the required libraries installed.
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/afaqieh/image-inpainting.git
-cd Image-Inpainting
+cd image-inpainting
